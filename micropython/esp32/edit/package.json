@@ -1,7 +1,4 @@
 {"urls": [[".ilib/edit.app", "github:go2m/apps_1.21/micropython/esp32/edit/edit.app"],
  [".ilib/edit.sum", "github:go2m/apps_1.21/micropython/esp32/edit/edit.sum"],
- ["lib/pye_core.py", "github:go2m/apps_1.21/micropython/esp32/edit/pye_core.py"],
- ["lib/pye_gen.py", "github:go2m/apps_1.21/micropython/esp32/edit/pye_gen.py"],
- ["lib/pye.mpy", "github:go2m/apps_1.21/micropython/esp32/edit/pye.mpy"],
- ["lib/pye.py", "github:go2m/apps_1.21/micropython/esp32/edit/pye.py"]],
+ ["lib/pye.mpy", "github:go2m/apps_1.21/micropython/esp32/edit/pye.mpy"]],
   "version": "1.21"}
