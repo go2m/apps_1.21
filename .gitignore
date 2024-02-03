@@ -151,3 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 micropython/esp32/.DS_Store
+/Users/strache/sphinx/1.21.0/git-repo/apps_1.21/.DS_Store
+.DS_Store
