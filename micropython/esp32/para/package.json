@@ -1,1 +1,1 @@
-{"urls": [[".ilib/para.app", "github:go2m/apps_1.21/micropython/esp32/para/para.app"], [".ilib/para.sum", "github:go2m/apps_1.21/micropython/esp32/para/para.sum"]], "version": "1.21"}
+{"urls": [[".ilib/para.sum", "github:go2m/apps_1.21/micropython/esp32/para/para.sum"], [".ilib/remove/para/package.json", "github:go2m/apps_1.21/micropython/esp32/para/package.json"], [".ilib/para.app", "github:go2m/apps_1.21/micropython/esp32/para/para.app"]], "version": "1.21"}

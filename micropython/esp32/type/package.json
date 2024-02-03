@@ -1,1 +1,1 @@
-{"urls": [[".ilib/type.app", "github:go2m/apps_1.21/micropython/esp32/type/type.app"], [".ilib/type.sum", "github:go2m/apps_1.21/micropython/esp32/type/type.sum"]], "version": "1.21"}
+{"urls": [[".ilib/type.app", "github:go2m/apps_1.21/micropython/esp32/type/type.app"], [".ilib/remove/type/package.json", "github:go2m/apps_1.21/micropython/esp32/type/package.json"], [".ilib/type.sum", "github:go2m/apps_1.21/micropython/esp32/type/type.sum"]], "version": "1.21"}

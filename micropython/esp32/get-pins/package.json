@@ -1,1 +1,1 @@
-{"urls": [[".ilib/get-pins.app", "github:go2m/apps_1.21/micropython/esp32/get-pins/get-pins.app"], [".ilib/get-pins.sum", "github:go2m/apps_1.21/micropython/esp32/get-pins/get-pins.sum"]], "version": "1.21"}
+{"urls": [[".ilib/get-pins.app", "github:go2m/apps_1.21/micropython/esp32/get-pins/get-pins.app"], [".ilib/remove/get-pins/package.json", "github:go2m/apps_1.21/micropython/esp32/get-pins/package.json"], [".ilib/get-pins.sum", "github:go2m/apps_1.21/micropython/esp32/get-pins/get-pins.sum"]], "version": "1.21"}
