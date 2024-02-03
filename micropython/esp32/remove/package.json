@@ -1,1 +1,1 @@
-{"urls": [[".ilib/remove.app", "github:go2m/apps_1.21/micropython/esp32/remove/remove.app"], [".ilib/remove.sum", "github:go2m/apps_1.21/micropython/esp32/remove/remove.sum"]], "version": "1.21"}
+{"urls": [[".ilib/remove.sum", "github:go2m/apps_1.21/micropython/esp32/remove/remove.sum"], [".ilib/remove/remove/package.json", "github:go2m/apps_1.21/micropython/esp32/remove/package.json"], [".ilib/remove.app", "github:go2m/apps_1.21/micropython/esp32/remove/remove.app"]], "version": "1.21"}
