@@ -1,1 +1,1 @@
-{"urls": [["/flash/.ilib/remove/mem/package.json", "github:go2m/apps_1.21/micropython/M5STACK/mem/package.json"], ["/flash/.ilib/mem.pya", "github:go2m/apps_1.21/micropython/M5STACK/mem/mem.pya"], ["/flash/.ilib/mem.sum", "github:go2m/apps_1.21/micropython/M5STACK/mem/mem.sum"]], "version": "1.21"}
+{"urls": [["remove/mem/package.json", "github:go2m/apps_1.21/micropython/M5STACK/mem/package.json"], ["mem.pya", "github:go2m/apps_1.21/micropython/M5STACK/mem/mem.pya"], ["mem.sum", "github:go2m/apps_1.21/micropython/M5STACK/mem/mem.sum"]], "version": "1.21"}
